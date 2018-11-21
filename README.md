@@ -1,6 +1,7 @@
 ## Make JAMstack apps, not sites with Gatsby + Netlify Identity + Netlify Functions
 
 This is a fork of https://github.com/gatsbyjs/gatsby-starter-default which shows how to use Netlify Identity and Netlify Functions with Gatsby. Start here for your next JAMstack hackathon or use this as a reference implementation.
+Sense Collective's hackathon series uses the jamstack hackathon starter as a general template for developers.
 
 ## 3 minute video walkthrough
 
